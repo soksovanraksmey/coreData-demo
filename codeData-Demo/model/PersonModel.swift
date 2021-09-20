@@ -6,3 +6,12 @@
 //
 
 import Foundation
+import UIKit
+
+struct PersonModel {
+    
+    var name : String
+    var age : Int16
+    var image: UIImage 
+    
+}
